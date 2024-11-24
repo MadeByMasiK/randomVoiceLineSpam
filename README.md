@@ -1,3 +1,6 @@
+# WHAT IS THIS
+## TL:DR, This is a program that sends random TTS-messages from a JSON-file
+
 # HOW TO USE IT
 ## Install python
 - You can install python from https://www.python.org/downloads/
